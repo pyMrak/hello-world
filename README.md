@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi there
+
+Roses are red an all that..
